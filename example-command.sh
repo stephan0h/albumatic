@@ -1,0 +1,1 @@
+python3 albumatix.py --dpi=600 --backgroundColour='(0,0,0)' --exif --border=0.6 --pageSize="(56.6,19.4)" --windowSize=30 example-album "[('<path-to-medium-size-pictures>/*.jpg',8.5),('<path-to-large-size-pictures>/*.jpg',17.0),('<path-to-small-size-pictures>/S/*.jpg',6.0)]" 
